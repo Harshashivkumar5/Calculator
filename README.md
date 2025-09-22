@@ -18,7 +18,7 @@ Follow these simple steps to get the project running on your local machine.
     * Wait for IntelliJ to index the project files.
     * In the project panel on the left, navigate to `src` > `Calculator.java`.
     * Open the `Calculator.java` file.
-    * Click the green **"play" button** ▶️ located to the left of the `public static void main(String[] args)` method.
+    * Click the green **"play" button**  located to the left of the `public static void main(String[] args)` method.
     * Select **"Run 'Calculator.main()'"**.
 
     
